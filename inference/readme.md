@@ -1,3 +1,5 @@
+Since the code cleanup is not yet complete, a **temporary version** is currently provided (but sufficient for most experiments).
+
 Only for inference
 
 inf4all.py           Inference for All (Just Use this)
